@@ -98,8 +98,8 @@ public class MainActivity extends AppCompatActivity {
             }
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
-                play(sbPosition);
                 mediaPlayer.seekTo(sbPosition.getProgress());
+                play(sbPosition);
             }
         });
         /** Partie 2 : gestion du deplacement du curseur par l'application */
