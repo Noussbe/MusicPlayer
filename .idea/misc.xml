@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/DAM008/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.2980072463768116" />
+        <entry key="..\:/Users/DAM008/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/icpause_48_w.xml" value="0.3225" />
+        <entry key="..\:/Users/DAM008/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/DAM008/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/item_song.xml" value="0.5" />
       </map>
     </option>
   </component>
